@@ -11,7 +11,7 @@
   "keywords": [
     "ecommerce"
   ],
-  "author": "Vipin Khandelwal",
+  "author": "Navneet Adlak",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
